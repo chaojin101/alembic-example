@@ -1,3 +1,3 @@
-# python migration tool alembic
+# Python alembic usage a migration tool for sqlalchemy
 
-[alembic example article](https://chaojin101.github.io/posts/Python-alembic/)
+[view this article](https://chaojin101.github.io/posts/Python-alembic/)
